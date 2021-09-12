@@ -1,0 +1,32 @@
+header{
+    background-color: darkblue;
+    text-align: center;
+}
+
+header img{
+    width: 20%;
+
+}
+
+section{
+    width: 70%;
+    margin: auto;
+}
+
+article{
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid black;
+
+}
+
+article h2{
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+article p, article ul{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: darkgrey;
+   text-align: justify;
+   line-height: 2em;
+}
